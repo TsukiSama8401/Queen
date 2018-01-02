@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203915603756",
+    "firebase_url": "https://queen-4f36c.firebaseio.com",
+    "project_id": "queen-4f36c",
+    "storage_bucket": "queen-4f36c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203915603756:android:adc0fdb2a39f615d",
+        "android_client_info": {
+          "package_name": "com.tom.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203915603756-dvmn76c86dauq7934vmf2g5if5trftb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tom.queen",
+            "certificate_hash": "8bad2134e2d76ced34d57642f95e39c070e197d9"
+          }
+        },
+        {
+          "client_id": "203915603756-kjeaj2gijf2mir0p9pcogio5teqiu6q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4kLbJ_ZM1ULlOPjE2qYUWC38ENnFtsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203915603756-kjeaj2gijf2mir0p9pcogio5teqiu6q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
